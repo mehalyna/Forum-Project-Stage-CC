@@ -24,3 +24,56 @@ In the dynamic world of entrepreneurship, the path from a transformative idea to
 We are committed to delivering a platform that is not just a marketplace for ideas and investments but a thriving community that nurtures innovation fosters economic development, and supports the aspirations of entrepreneurs and investors alike. Our vision is to see a world where every transformative idea has the opportunity to flourish and where investors can confidently fuel the engines of progress and innovation.
 
 
+### Basic Epics
+
+1. **As a startup company,** I want to create a profile on the platform, so that I can present my ideas and proposals to potential investors.
+   
+   - Tasks:
+     - Implement user registration functionality for startups.
+     - Create a profile setup page where startups can add details about their company and ideas.
+
+2. **As an investor,** I want to view profiles of startups, so that I can find promising ideas to invest in.
+   
+   - Tasks:
+     - Develop a feature for investors to browse and filter startup profiles.
+     - Implement a viewing functionality for detailed startup profiles.
+
+3. **As a startup company,** I want to update my project information, so that I can keep potential investors informed about our progress and milestones.
+   
+   - Tasks:
+     - Create functionality for startups to edit and update their project information.
+     - Implement a system to notify investors about updates to startups they are following.
+
+4. **As an investor,** I want to be able to contact startups directly through the platform, so that I can discuss investment opportunities.
+   
+   - Tasks:
+     - Develop a secure messaging system within the platform for communication between startups and investors.
+     - Implement privacy and security measures to protect the communication.
+
+5. **As a startup company,** I want to receive notifications about interested investors, so that I can engage with them promptly.
+   
+   - Tasks:
+     - Implement notification functionality for startups when an investor shows interest or contacts them.
+     - Create a dashboard for startups to view and manage investor interactions.
+
+6. **As an investor,** I want to save and track startups that interest me, so that I can manage my investment opportunities effectively.
+   
+   - Tasks:
+     - Develop a feature for investors to save and track startups.
+     - Implement a dashboard for investors to manage their saved startups and investment activities.
+
+### Additional Features
+
+- **Security and Data Protection**: Ensure that user data, especially sensitive financial information, is securely handled.
+  
+- **User Feedback System**: Create a system for users to provide feedback on the platform, contributing to continuous improvement.
+
+- **Analytical Tools**: Implement analytical tools for startups to understand investor engagement and for investors to analyze startup potential.
+
+### Agile Considerations
+
+- Each user story can be broken down into smaller tasks and developed in sprints.
+- Regular feedback from both user groups (startups and investors) should be incorporated.
+
+
+
