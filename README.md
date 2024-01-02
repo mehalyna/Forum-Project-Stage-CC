@@ -28,39 +28,39 @@ We are committed to delivering a platform that is not just a marketplace for ide
 
 1. **As a startup company,** I want to create a profile on the platform, so that I can present my ideas and proposals to potential investors.
    
-   - Tasks:
-     - Implement user registration functionality for startups.
-     - Create a profile setup page where startups can add details about their company and ideas.
+   - Features:
+     -  user registration functionality for startups.
+     -  profile setup page where startups can add details about their company and ideas.
 
 2. **As an investor,** I want to view profiles of startups, so that I can find promising ideas to invest in.
    
-   - Tasks:
-     - Develop a feature for investors to browse and filter startup profiles.
-     - Implement a viewing functionality for detailed startup profiles.
+   - Features:
+     -  feature for investors to browse and filter startup profiles.
+     -  viewing functionality for detailed startup profiles.
 
 3. **As a startup company,** I want to update my project information, so that I can keep potential investors informed about our progress and milestones.
    
-   - Tasks:
-     - Create functionality for startups to edit and update their project information.
-     - Implement a system to notify investors about updates to startups they are following.
+   - Features:
+     -  functionality for startups to edit and update their project information.
+     -  system to notify investors about updates to startups they are following.
 
 4. **As an investor,** I want to be able to contact startups directly through the platform, so that I can discuss investment opportunities.
    
-   - Tasks:
-     - Develop a secure messaging system within the platform for communication between startups and investors.
-     - Implement privacy and security measures to protect the communication.
+   - Features:
+     -  secure messaging system within the platform for communication between startups and investors.
+     -  privacy and security measures to protect the communication.
 
 5. **As a startup company,** I want to receive notifications about interested investors, so that I can engage with them promptly.
    
-   - Tasks:
-     - Implement notification functionality for startups when an investor shows interest or contacts them.
-     - Create a dashboard for startups to view and manage investor interactions.
+   - Features:
+     -  notification functionality for startups when an investor shows interest or contacts them.
+     -  dashboard for startups to view and manage investor interactions.
 
 6. **As an investor,** I want to save and track startups that interest me, so that I can manage my investment opportunities effectively.
    
-   - Tasks:
-     - Develop a feature for investors to save and track startups.
-     - Implement a dashboard for investors to manage their saved startups and investment activities.
+   - Features:
+     -  feature for investors to save and track startups.
+     -  dashboard for investors to manage their saved startups and investment activities.
 
 ### Additional Features
 
