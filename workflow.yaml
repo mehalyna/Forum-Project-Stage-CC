@@ -1,6 +1,0 @@
-uses: soichisumi/issue-copy-action@v0.2.0
-with:
-  keyword: "/copy"
-  targetRepository: mehalyna/ChNU-Practics-2024
-  githubToken: ${{ secrets.GITHUB_TOKEN }}
-  contentOfNewIssue: ''
