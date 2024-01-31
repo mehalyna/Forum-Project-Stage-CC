@@ -3,4 +3,4 @@ with:
   keyword: "/copy"
   targetRepository: mehalyna/ChNU-Practics-2024
   githubToken: ${{ secrets.GITHUB_TOKEN }}
-  contentOfNewIssue: 'prefix of newly created issue'
+  contentOfNewIssue: ''
